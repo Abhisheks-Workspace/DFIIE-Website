@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# DBATU Forum of Innovation and Incubation Enterprise (DFIIE) Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the repository of the DBATU Forum of Innovation and Incubation Enterprise (DFIIE) website. This frontend website is live at [www.dbatuiiec.com](www.dbatuiiec.com).
+
+## Overview
+
+The DFIIE website serves as a platform to showcase the innovative projects and initiatives undertaken by the DBATU community. It aims to foster a culture of innovation and entrepreneurship among students and faculty.
+
+## Features
+
+- **Innovative Design**: The website boasts a modern, user-friendly design that provides an engaging user experience.
+- **Startup Showcase**: The website features a dedicated section for showcasing the innovative projects undertaken by the DBATU community.
+- **News and Updates**: Stay up-to-date with the latest news and updates from DFIIE.
+- **Contact Information**: The website provides easy access to contact information for reaching out to DFIIE.
+
+## Technology Stack
+
+The DFIIE website is built using modern web technologies for optimal performance and scalability.
+
+## Contributing
+
+We welcome contributions from the community. If you'd like to contribute, please see our contributing guidelines.
+
+Thank you for visiting our repository. We look forward to your contributions!# Getting Started with Create React App
 
 ## Available Scripts
 
